@@ -1,0 +1,6 @@
+C:\Users\JESSYBJA\Desktop\Ciclo 01-2018\arquitectura de computadoras\tarea\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe.config
+C:\Users\JESSYBJA\Desktop\Ciclo 01-2018\arquitectura de computadoras\tarea\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe
+C:\Users\JESSYBJA\Desktop\Ciclo 01-2018\arquitectura de computadoras\tarea\ejercicio1\ejercicio1\bin\Debug\ejercicio1.pdb
+C:\Users\JESSYBJA\Desktop\Ciclo 01-2018\arquitectura de computadoras\tarea\ejercicio1\ejercicio1\obj\Debug\ejercicio1.csprojResolveAssemblyReference.cache
+C:\Users\JESSYBJA\Desktop\Ciclo 01-2018\arquitectura de computadoras\tarea\ejercicio1\ejercicio1\obj\Debug\ejercicio1.exe
+C:\Users\JESSYBJA\Desktop\Ciclo 01-2018\arquitectura de computadoras\tarea\ejercicio1\ejercicio1\obj\Debug\ejercicio1.pdb
