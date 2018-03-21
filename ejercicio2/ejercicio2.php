@@ -8,6 +8,7 @@
 <fieldset>
 	<legend>Peso de la Maquina</legend>
 	<form method="POST">
+		
 		<label for="" 50 >Masa:  ???</label> <br><br>
 		<label for="N1" 50 >Fuerza</label>
 		<input type="number" name="N1">
